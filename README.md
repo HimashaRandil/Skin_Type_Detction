@@ -9,7 +9,7 @@ A heartfelt thank you to Mr.Gihan Liyanage, and Dr.Kaneeka Vidanage (Ph.D.) who 
 [YouTube Link to our journey](https://youtu.be/Pzak9Te-cU8?si=JVTXb1lTFVZdUK-V)
 
 
-## Methodology
+## Key Features
 
 1. Face Detection - [dlib Face Detection](https://github.com/HimashaRandil/Skin_Type_Detction/tree/main/Detction%20Face)
 
